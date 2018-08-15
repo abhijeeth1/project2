@@ -1,0 +1,59 @@
+firstblock{
+    width: 800px;
+    height: 600px;
+  }
+  .logo{
+    border: 2px solid black;
+    display: inline-block;
+    width: 232px;
+    height: 82px;
+    margin-left: 11px;
+    margin-bottom: 11px;
+  }
+  .banner{
+    border: 2px solid black;
+    display: inline-block;
+    width: 557px;
+    height: 82px;
+    margin-bottom: 11px;
+    margin-left: 11px;
+  }
+  .secondblock{
+    width: 800px;
+    height: 600px;
+  }
+  .news{
+    float: left;
+    border: 2px solid black;
+    height: 210px;
+    width: 232px;
+    margin-bottom: 33px;
+  }
+  .navigation{
+    float:right;
+    border: 2px solid black;
+    height: 49px;
+    width: 555px;
+  }
+  .test{
+    float: right;
+    text-align: left;
+    border: 2px solid green;
+    width: 557px;
+    height: 384px;
+    margin-top: 15px;
+  }
+  .AD{
+    border: 2px solid orange;
+    float: left;
+    width: 232px;
+    height: 205px;
+    margin-top: 33px; 
+    margin-bottom: 15px;
+  }
+  .legalcopy{
+    border: 2px solid blue;
+    width: 800px;
+    height: 44px;
+  }
+  
