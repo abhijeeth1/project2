@@ -3,7 +3,7 @@ firstblock{
     height: 600px;
   }
   .logo{
-    border: 2px solid black;
+    border: 2px solid red;
     display: inline-block;
     width: 232px;
     height: 82px;
