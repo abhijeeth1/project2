@@ -1,4 +1,8 @@
-firstblock{
+@media only screen and (max-width: 600px) {
+  body {
+      background-color: lightblue;
+  }
+}firstblock{
     width: 800px;
     height: 600px;
   }
